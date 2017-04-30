@@ -32,5 +32,7 @@ some other links
     
     http://www.hboehm.info/gc/simple_example.html
     
+    https://www.comp.nus.edu.sg/~gregory/gc/
+    
 # Other topics
 In time or add them here yourself.
