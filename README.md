@@ -18,8 +18,8 @@ To find any of these (they move around) I do a google search for AMD and the doc
     
     https://support.amd.com/TechDocs/24594.pdf
     
-    http://support.amd.com/us/Processor_TechDocs/24594_APM_v3.pdf
-    
+    http://developer.amd.com/wordpress/media/Processor_TechDocs/24594_APM_v3.pdf
+
     https://support.amd.com/TechDocs/26568.pdf
 
     http://ref.x86asm.net/
