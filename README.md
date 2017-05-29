@@ -1,6 +1,6 @@
 # Documentation
 
-[![Join the chat at https://gitter.im/free-red/documentation](https://badges.gitter.im/free-red/documentation.svg)](https://gitter.im/free-red/documentation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/freered/documentation](https://badges.gitter.im/freered/documentation.svg)](https://gitter.im/freered/documentation?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Place for links to useful documentation and information. 
 If possible and the source itself is not too large, save also the docs themselves because weblocations may change or become outdated.
