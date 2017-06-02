@@ -5,6 +5,10 @@
 Place for links to useful documentation and information. 
 If possible and the source itself is not too large, save also the docs themselves because weblocations may change or become outdated.
 
+## Documents on Red internal working
+
+* https://github.com/reddoc/develop/wiki
+
 ## 64 bit assembly programming docs
 Google search on 'amd64 assembly reference' gives a bunch of links to useful reference and starting material.
 On Linux Questions http://www.linuxquestions.org/questions/programming-9/a-good-amd64-assembly-tutorial-941399/ user johnsfine gives some good looking tips and advice 
